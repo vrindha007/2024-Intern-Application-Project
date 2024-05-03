@@ -13,4 +13,4 @@
 - If you are able to complete all or a portion of the project, do not forget to incorporate a way to measure the accuracy of your solution
 
 **Deadline To Submit**
-Sunday the 5th of May at 9 am EST **please note the time zone**
+Sunday the 5th of May at 9 am EST - **please note the time zone**
